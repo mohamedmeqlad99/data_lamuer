@@ -19,3 +19,7 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Data Science Skills                          | [data_science_skills.sql](./data_science_skills.sql) | ⭐         |
 | Odd vs Even                                  | [odd vs even.sql](./odd%20vs%20even.sql)         | ⭐          |
 | Pharmacy Analytics (Part 1)                 | [pharmacy analytics 1.sql](./pharmacy%20analytics%201.sql) | ⭐         |
+| Histogram of Users and Purchases
+                 | [Histogram of Users and Purchases
+.sql](./Histogram of Users and Purchases
+.sql) | ⭐         |
