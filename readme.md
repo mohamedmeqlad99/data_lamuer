@@ -3,7 +3,7 @@
 Welcome to the **Datalemuer SQL Solutions** repository! This repository contains solutions to SQL questions found on the [Datalemuer](https://datalemur.com) website. It aims to provide clear, well-documented, and efficient solutions for a wide range of SQL problems, from basic queries to more complex data manipulations.
 
 
-| Problem Name                                | Solution Link                                                              | Difficulty |
+| Problem Name                               | Solution Link                                                              | Difficulty |
 |--------------------------------------------|----------------------------------------------------------------------------|------------|
 | App Click-through Rate (CTR)               | [App Click-through Rate (CTR).sql](./App%20Click-through%20Rate%20(CTR).sql) | ⭐⭐        |
 | Cities With Completed Trades               | [Cities With Completed Trades.sql](./Cities%20With%20Completed%20Trades.sql) | ⭐⭐        |
@@ -21,3 +21,5 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Pharmacy Analytics (Part 1)               | [Pharmacy Analytics 1.sql](./Pharmacy%20Analytics%201.sql)                 | ⭐         |
 | Histogram of Users and Purchases           | [Histogram of Users and Purchases.sql](./Histogram%20of%20Users%20and%20Purchases.sql) | ⭐⭐      |
 | FAANG Stock Min-Max (Part 1)              | [FAANG Stock Min-Max (Part 1).sql](./FAANGStockMin-Max(Part%201).sql)      | ⭐⭐        |
+| 3-Topping Pizzas                           | [3-Topping Pizzas.sql](./3-Topping%20Pizzas.sql)                           | ⭐⭐⭐        |
+
