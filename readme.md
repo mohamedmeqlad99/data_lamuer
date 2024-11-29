@@ -22,4 +22,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Histogram of Users and Purchases           | [Histogram of Users and Purchases.sql](./Histogram%20of%20Users%20and%20Purchases.sql) | ⭐⭐      |
 | FAANG Stock Min-Max (Part 1)              | [FAANG Stock Min-Max (Part 1).sql](./FAANGStockMin-Max(Part%201).sql)      | ⭐⭐        |
 | 3-Topping Pizzas                           | [3-Topping Pizzas.sql](./3-Topping%20Pizzas.sql)                           | ⭐⭐⭐        |
-
+| Compressed Mode                             | [Compressed Mode.sql](./Compressed%20Mode.sql)                            | ⭐⭐          |
