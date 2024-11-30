@@ -23,3 +23,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | FAANG Stock Min-Max (Part 1)              | [FAANG Stock Min-Max (Part 1).sql](./FAANGStockMin-Max(Part%201).sql)      | ⭐⭐        |
 | 3-Topping Pizzas                           | [3-Topping Pizzas.sql](./3-Topping%20Pizzas.sql)                           | ⭐⭐⭐        |
 | Compressed Mode                             | [Compressed Mode.sql](./Compressed%20Mode.sql)                            | ⭐⭐          |
+| International Call Percentage               | [International Call Percentage.sql](./International20%Call20%Percentage.sql)| ⭐⭐          |
