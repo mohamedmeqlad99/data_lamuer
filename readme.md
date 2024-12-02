@@ -25,4 +25,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Compressed Mode                             | [Compressed Mode.sql](./Compressed%20Mode.sql)                            | ⭐⭐          |
 | International Call Percentage               | [International Call Percentage.sql](./International20%Call20%Percentage.sql)| ⭐⭐          |
 | Card Launch Success                         | [Card Launch Success.sql](./Card20%Launch20%Success.sql)| ⭐⭐          |
-| Patient Support Analysis (Part 2)           | [Patient Support Analysis (Part 2)](./Patient20%Support20%Analysis20%(Part2))|⭐⭐          |
+| Patient Support Analysis (Part 2)           | [Patient Support Analysis (Part 2)](./Patient20%Support20%Analysis20%(Part2))| ⭐⭐          |
