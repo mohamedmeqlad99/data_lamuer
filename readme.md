@@ -26,3 +26,5 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | International Call Percentage               | [International Call Percentage.sql](./International20%Call20%Percentage.sql)| ⭐⭐          |
 | Card Launch Success                         | [Card Launch Success.sql](./Card20%Launch20%Success.sql)| ⭐⭐          |
 | Patient Support Analysis (Part 2)           | [Patient Support Analysis (Part 2)](./Patient%20Support%20Analysis%20(Part%202).sql)| ⭐⭐          |
+| Well Paid Employees                         | [Well Paid Employees](./Well%20Paid%20Employees.sql)|  ⭐   |
+
