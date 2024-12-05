@@ -27,4 +27,5 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Card Launch Success                         | [Card Launch Success.sql](./Card20%Launch20%Success.sql)| ⭐⭐          |
 | Patient Support Analysis (Part 2)           | [Patient Support Analysis (Part 2)](./Patient%20Support%20Analysis%20(Part%202).sql)| ⭐⭐          |
 | Well Paid Employees                         | [Well Paid Employees](./Well%20Paid%20Employees.sql)|  ⭐   |
+| Odd and Even Measurements                   | [Odd and Even Measurements](./Odd20%and20%Even20%Measurements.sql)  | ⭐⭐⭐ |
 
