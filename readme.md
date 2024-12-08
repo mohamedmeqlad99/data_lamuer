@@ -29,4 +29,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Well Paid Employees                         | [Well Paid Employees](./Well%20Paid%20Employees.sql)|  ⭐   |
 | Odd and Even Measurements                   | [Odd and Even Measurements](./Odd%20and%20Even%20Measurements.sql)  | ⭐⭐⭐ |
 | Y-on-Y Growth Rate                          | [Y-on-Y Growth Rate](./Y-on-Y%20Growth%20Rate.sql)   | ⭐⭐⭐   |
-
+| Repeated Payments                           | [Repeated Payments](./Repeated20%Payments.sql)  | ⭐⭐⭐   |
