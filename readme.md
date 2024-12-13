@@ -30,3 +30,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Odd and Even Measurements                   | [Odd and Even Measurements](./Odd%20and%20Even%20Measurements.sql)  | ⭐⭐⭐ |
 | Y-on-Y Growth Rate                          | [Y-on-Y Growth Rate](./Y-on-Y%20Growth%20Rate.sql)   | ⭐⭐⭐   |
 | Repeated Payments                           | [Repeated Payments](./Repeated%20Payments.sql)  | ⭐⭐⭐   |
+| Median Google Search Frequency              | [Median Google Search Frequency](./Median%20Google%20Search%20Frequency.sql) | ⭐⭐⭐ |
