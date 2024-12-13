@@ -31,3 +31,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Y-on-Y Growth Rate                          | [Y-on-Y Growth Rate](./Y-on-Y%20Growth%20Rate.sql)   | ⭐⭐⭐   |
 | Repeated Payments                           | [Repeated Payments](./Repeated%20Payments.sql)  | ⭐⭐⭐   |
 | Median Google Search Frequency              | [Median Google Search Frequency](./Median%20Google%20Search%20Frequency.sql) | ⭐⭐⭐ |
+| Maximize Prime Item Inventory               | [Maximize Prime Item Inventory](./Maximize%20Prime%20Item%20Inventory.sql)  |  ⭐⭐⭐ |
