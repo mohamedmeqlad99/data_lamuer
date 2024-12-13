@@ -33,4 +33,4 @@ Welcome to the **Datalemuer SQL Solutions** repository! This repository contains
 | Median Google Search Frequency              | [Median Google Search Frequency](./Median%20Google%20Search%20Frequency.sql) | ⭐⭐⭐ |
 | Maximize Prime Item Inventory               | [Maximize Prime Item Inventory](./Maximize%20Prime%20Item%20Inventory.sql)  |  ⭐⭐⭐ |
 | Department vs. Company Salary               | [Department vs. Company Salary](./Department%20vs.%20Company%20Salary.sql) | ⭐⭐⭐   |
-| SELEC
+| Server Utilization Time                     | [Server Utilization Time](./Server%20Utilization%20Time.sql) | ⭐⭐⭐ |
